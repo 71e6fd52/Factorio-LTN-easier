@@ -1,0 +1,10 @@
+{
+    "name": "LTN-easier",
+    "version": "0.1.0",
+    "title": "Logistic Train Network easier",
+    "author": "71e6fd52",
+    "contact": "DAStudio.71e6fd52@gmail.com",
+    "factorio_version": "0.16",
+    "dependencies": ["LogisticTrainNetwork"],
+    "description": "Make Logistic Train Network mod easier. Replace advanced circuits with electronic circuits."
+}
